@@ -1,0 +1,31 @@
+_repo: Poezii_35323
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eminescu, Mihai
+    aliases:
+    - Eminescu, M. (Mihai)
+    - Eminesco, Mihail
+    - Eminescu, Mihail
+    birthdate: 1850
+    deathdate: 1889
+    gutenberg_agent_id: '37680'
+    url: http://www.gutenberg.org/2009/agents/37680
+    wikipedia: http://en.wikipedia.org/wiki/Mihai_Eminescu
+description: ''
+gutenberg_issued: '2011-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35323'
+language: ro
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PC'
+- !lcsh 'Romanian poetry'
+title: Poezii
+url: http://www.gutenberg.org/ebooks/35323
